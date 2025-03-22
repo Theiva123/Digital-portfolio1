@@ -1,0 +1,100 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://HYQZL5uh41lNQld:aiBR89cJ8GHzm7V@localhost:44956/storage/emulated/0/Documents/Theivanai%20portfolio.html
+Subject: My Portfolio
+Date: Fri, 21 Mar 2025 15:51:41 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--4SoSiV8HZ092GLC5IbBHeH9xPiFimnPCs1tx4g0OLb----"
+
+
+------MultipartBoundary--4SoSiV8HZ092GLC5IbBHeH9xPiFimnPCs1tx4g0OLb----
+Content-Type: text/html
+Content-ID: <frame-4BC6DBE424578776C0AB999A8A674807@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://HYQZL5uh41lNQld:aiBR89cJ8GHzm7V@localhost:44956/storage/emulated/0/Documents/Theivanai%20portfolio.html
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-70f3cad8-d821-46ae-9dd4-7842e319190e@mhtml.blink" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    
+</head>
+<body>
+    <header>
+        <img src="http://HYQZL5uh41lNQld:aiBR89cJ8GHzm7V@localhost:44956/storage/emulated/0/Documents/IMG-20250321WA0012.jpg" alt="K.P. Theivanai "> <!-- Replace with your photo -->
+        <h1>K.P. Theivanai </h1>
+        <p>Undergraduate Student | Web Developer | Student| Passionate Learner</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="http://HYQZL5uh41lNQld:aiBR89cJ8GHzm7V@localhost:44956/storage/emulated/0/Documents/Theivanai%20portfolio.html#about">About Me</a></li>
+            <li><a href="http://HYQZL5uh41lNQld:aiBR89cJ8GHzm7V@localhost:44956/storage/emulated/0/Documents/Theivanai%20portfolio.html#skills">Skills</a></li>
+            <li><a href="http://HYQZL5uh41lNQld:aiBR89cJ8GHzm7V@localhost:44956/storage/emulated/0/Documents/Theivanai%20portfolio.html#projects">Projects</a></li>
+            <li><a href="http://HYQZL5uh41lNQld:aiBR89cJ8GHzm7V@localhost:44956/storage/emulated/0/Documents/Theivanai%20portfolio.html#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello! I am a second year undergraduate student pursuing a degree in Computer Application. I have a passion for web development and enjoy creating user-friendly applications.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML &amp; CSS</li>
+            <li>Java</li>
+            <li>Python</li>
+            <li>C++</li>how to link  my photo copy to html program for digital portfolio of my output
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>Project 1:</strong> Personal Portfolio Website</li>
+            <li><strong>Project 2:</strong> Survey Website</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: ssstheivanai@99gmail.com</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/theivanai" target="_blank">linkedin.com/in/theivanai</a></p>
+    </section>
+
+    <footer>
+        <p>© 2025 K.P. Theivanai . All rights reserved.</p>
+    </footer>
+
+
+</body></html>
+------MultipartBoundary--4SoSiV8HZ092GLC5IbBHeH9xPiFimnPCs1tx4g0OLb----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-70f3cad8-d821-46ae-9dd4-7842e319190e@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0px; padding: 0px; background-color: rgb(244, 244, 244); }
+
+header { background: rgb(53, 66, 74); color: rgb(255, 255, 255); padding: 20px 0px; text-align: center; }
+
+header img { width: 150px; height: auto; border-radius: 50%; margin-bottom: 10px; }
+
+nav { background: rgb(53, 66, 74); color: rgb(255, 255, 255); }
+
+nav ul { list-style: none; padding: 0px; }
+
+nav ul li { display: inline; margin: 0px 15px; }
+
+nav ul li a { color: rgb(255, 255, 255); text-decoration: none; }
+
+section { padding: 20px; margin: 20px; background: rgb(255, 255, 255); border-radius: 8px; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 5px; }
+
+h2 { color: rgb(53, 66, 74); }
+
+footer { text-align: center; padding: 10px 0px; background: rgb(53, 66, 74); color: rgb(255, 255, 255); position: relative; bottom: 0px; width: 100%; }
+------MultipartBoundary--4SoSiV8HZ092GLC5IbBHeH9xPiFimnPCs1tx4g0OLb------
